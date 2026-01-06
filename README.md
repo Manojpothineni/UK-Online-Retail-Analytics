@@ -10,7 +10,6 @@ This interactive sales dashboard provides executive-level insights into online r
 
 Total Revenue: £10.6M
 
-
 Total Orders: 20K
 
 Average Order Value: £533
@@ -22,54 +21,55 @@ Total Customers: 4.3K
 
 *** Features ***
 1. Monthly Revenue Trend
-*Visualizes revenue performance across 12 months
-
-*Identifies seasonal patterns and growth trends
-
-*Shows significant revenue increase in November-December period
-
-
-3. Top 10 Products by Revenue
    
-Highlights best-performing products including:
+ *Visualizes revenue performance across 12 months
 
-DOTCOM POSTAGE
+ *Identifies seasonal patterns and growth trends
 
-REGENCY CAKESTAND 3 TIER
+ *Shows significant revenue increase in November-December period
 
-PAPER CRAFT, LITTLE BIRDIE
 
-WHITE HANGING HEART T-LIGHT HOLDER
+2. Top 10 Products by Revenue
+   
+ Highlights best-performing products including:
 
-PARTY BUNTING
+ DOTCOM POSTAGE
+
+ REGENCY CAKESTAND 3 TIER
+
+ PAPER CRAFT, LITTLE BIRDIE
+
+ WHITE HANGING HEART T-LIGHT HOLDER
+
+ PARTY BUNTING
 
 
 3. Geographic Analysis
 
-Revenue by Country: Interactive map showing global distribution
+ Revenue by Country: Interactive map showing global distribution
 
-UK vs International Revenue:
+ UK vs International Revenue:
 
-UK: £9.0M (84.59%)
+ UK: £9.0M (84.59%)
 
-International: £1.6M (15.41%)
+ International: £1.6M (15.41%)
 
 4. Sales by Day of Week
 
-*Analyzes daily sales patterns
+ *Analyzes daily sales patterns
 
-*Identifies peak shopping days
-
-*Tuesday and Thursday show highest sales volumes
+ *Identifies peak shopping days
+ 
+ *Tuesday and Thursday show highest sales volumes
 
 
 5. Date Range Filter
 
-Customizable date selection
+ Customizable date selection
 
-Enables period-over-period comparisons
+ Enables period-over-period comparisons
 
-Default range: 12/1/2010 - 12/31/2011
+ Default range: 12/1/2010 - 12/31/2011
 
 ** Technologies Used **
 
