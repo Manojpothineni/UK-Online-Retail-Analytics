@@ -1,5 +1,5 @@
 # UK-Online-Retail-Analytics
-End-to-end data analytics project analyzing £10.6M UK retail transactions using Python, MySQL, Excel and Power BI
+End-to-end data analytics project analyzing £10.6M UK retail transactions using Python, MySQL, Excel and Power BI.
 This interactive sales dashboard provides executive-level insights into online retail operations, featuring key performance indicators, revenue trends, and customer analytics.
 *** Key Metrics ***
 
